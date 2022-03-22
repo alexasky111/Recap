@@ -1,0 +1,2 @@
+1) 1,2,3,4
+1) 1st part of the loop is called initialization that happens once;2nd part of the loop is termination condition-the loop runs as long as the condition is true; 3rd part is the iteration- after loop condition is checked, if it’s true the statement in a scope will run, then it’ll go back to iteration, then check the condition again.
